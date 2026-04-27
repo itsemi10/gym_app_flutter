@@ -66,4 +66,4 @@ Desarrollado por Emiliano Hernández Rivera
 Este proyecto es de uso educativo.
 
 ![image alt](https://github.com/itsemi10/gym_app_flutter/blob/84e87be9a948405444db3c4108540c66aaaf7ee0/WhatsApp%20Image%202026-04-26%20at%207.22.25%20PM.jpeg)
-<img src="assets/images/home.png" width="250">
+<img src="https://github.com/itsemi10/gym_app_flutter/blob/84e87be9a948405444db3c4108540c66aaaf7ee0/WhatsApp%20Image%202026-04-26%20at%207.22.25%20PM.jpeg" width="250">
