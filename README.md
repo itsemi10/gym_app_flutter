@@ -72,3 +72,4 @@ Imagenes de la App:
 <img src="https://github.com/itsemi10/gym_app_flutter/blob/c5bfecc41f6909ce84fdeb2cb270319f31ba310c/WhatsApp%20Image%202026-04-26%20at%207.22.25%20PM%20(2).jpeg" width="250">
 <img src="https://github.com/itsemi10/gym_app_flutter/blob/800bb5453b3856dfedddb4d57d5483d7def6b4f3/WhatsApp%20Image%202026-04-26%20at%207.22.25%20PM%20(3).jpeg" width="250">
 <img src="https://github.com/itsemi10/gym_app_flutter/blob/6443d75b16151666c70725f08461e51167f47b62/WhatsApp%20Image%202026-04-26%20at%207.22.26%20PM.jpeg" width="250">
+<img src="https://github.com/itsemi10/gym_app_flutter/blob/aec71f38510672a87b2b13d5a72417c50ebf8612/WhatsApp%20Image%202026-04-26%20at%207.22.26%20PM%20(1).jpeg" width="250">
